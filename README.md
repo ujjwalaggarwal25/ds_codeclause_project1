@@ -3,4 +3,4 @@ Project : Tesla Stock Market Prediction
 Dataset From Kaggle
 By : Ujjwal Aggarwal
 Libraries Imported are :
-Numpy, Pandas, Pypltly, Matplotlib.pyplot, Seaborn, Sklearn
+Numpy, Pandas, Pyplotly, Matplotlib.pyplot, Seaborn, Sklearn
